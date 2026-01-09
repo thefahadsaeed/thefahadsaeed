@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
+<h1 align="center">Hi 👋, I'm Fahad</h1>
 <h3 align="center">AI/ML Engineer | Full-Stack Developer | Problem Solver</h3>
 
 - 🔭 I’m currently working on **AI-Powered Document Verification Platform**
@@ -55,14 +55,4 @@
 
 ---
 
-## 🌍 Connect with me
-<p align="center">
-  <a href="https://linkedin.com/in/mabdullahdogar"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://github.com/Abdullah-Dogar"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://twitter.com/thabdullahdogar"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://facebook.com/abdullahhdogarr" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="48" height="48"/>
-  </a>
-  <a href="https://instagram.com/abdullahhdogarr"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="mailto:theabdullahdogar.work@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
+
