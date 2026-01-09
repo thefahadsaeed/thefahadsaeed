@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **AI/ML/DL, Full-Stack Development, Automation, and Scalable System Design**
 
-- 📫 How to reach me **theabdullahdogar.work@gmail.com**
+- 📫 How to reach me **thefahaddogar.work@gmail.com**
 
 - ⚡ Fun fact **I'm a polymath**
 ---
