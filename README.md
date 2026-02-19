@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fahad</h1>
+<h1 align="center">Hi 👋, I'm Abdulah</h1>
 <h3 align="center">AI/ML Engineer | Full-Stack Developer | Problem Solver</h3>
 
 - 🔭 I’m currently working on **AI-Powered Document Verification Platform**
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **AI/ML/DL, Full-Stack Development, Automation, and Scalable System Design**
 
-- 📫 How to reach me **thefahaddogar.work@gmail.com**
+- 📫 How to reach me **theabdullahdogar.work@gmail.com**
 
 - ⚡ Fun fact **I'm a polymath**
 ---
